@@ -2,3 +2,5 @@ Hola, munda!
 master was here
 Здесь был Петя!
 здесь был Вася!
+
+lucky was here
